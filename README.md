@@ -2,7 +2,7 @@
 
 Aplikasi berbasis web interaktif untuk membandingkan performa tiga algoritma kompresi gambar: **SVD (Singular Value Decomposition)**, **K-Means Clustering**, dan **WebP (VP8 Codec)**.
 
-🔗 **Live Demo:** [https://kompresi-k1.streamlit.app/](https://kompresi-k1.streamlit.app/)
+🔗 **Live Demo:** [[https://kompresi-k1.streamlit.app/](https://kompresi-k1.streamlit.app/](https://uas-kompresi-k1-sismul.streamlit.app/)
 
 ## **Fitur Utama**
 
